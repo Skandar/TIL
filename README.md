@@ -17,3 +17,7 @@
 ## CSS
 
 - [Красивое подчёркивания текста](https://github.com/Skandar/TIL/blob/master/css/underline-decoration.md)
+
+## JS
+
+- [Intersection Observer](https://github.com/Skandar/TIL/blob/master/js/intersection-observer.md)

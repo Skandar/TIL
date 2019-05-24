@@ -1,4 +1,4 @@
-# Underline decoration
+# Красивое подчёркивание
 
 Простое и красивое подчёркивание текста. [Demo](https://codepen.io/skandar_sl/pen/qGPXBm)
 
