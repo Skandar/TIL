@@ -17,6 +17,7 @@
 ## CSS
 
 - [Красивое подчёркивания текста](https://github.com/Skandar/TIL/blob/master/css/underline-decoration.md)
+- [Цвет каретки](https://github.com/Skandar/TIL/blob/master/css/caret-color.md)
 
 ## JS
 
