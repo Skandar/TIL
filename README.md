@@ -13,12 +13,14 @@
 ## Категории
 
 - [CSS](#css)
+- [JS](#js)
 
 ## CSS
 
 - [Красивое подчёркивания текста](https://github.com/Skandar/TIL/blob/master/css/underline-decoration.md)
 - [Цвет каретки](https://github.com/Skandar/TIL/blob/master/css/caret-color.md)
 - [Обрезание многострочного текста](https://github.com/Skandar/TIL/blob/master/css/line-clamp.md)
+- [`overscroll-behavior` управление поведением браузер при достижении границы скролящегося элемента](https://github.com/Skandar/TIL/blob/master/css/line-clamp.md)
 
 ## JS
 
