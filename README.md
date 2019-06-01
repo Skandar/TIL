@@ -14,6 +14,11 @@
 
 - [CSS](#css)
 - [JS](#js)
+- [HTML](#html)
+
+## HTML
+
+- [Управление отображаемой клавиатурой с помощью атрибута `inputmode`](https://github.com/Skandar/TIL/blob/master/html/inputmode.md)
 
 ## CSS
 
