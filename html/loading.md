@@ -2,7 +2,7 @@
 
 
 
-В Chrome 75 (за флагом) появился HTML атрибут `loading`, который позволяет лениво загружать картинки и iframe. 
+В Chrome 75 (за флагом) появился HTML атрибут `loading`, который позволяет лениво загружать картинки и iframe. [Demo](https://mathiasbynens.be/demo/img-loading-lazy)
 
 
 
