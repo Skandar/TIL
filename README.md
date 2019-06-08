@@ -31,3 +31,5 @@
 ## JS
 
 - [Intersection Observer](https://github.com/Skandar/TIL/blob/master/js/intersection-observer.md)
+- [“Лишние” запятые](https://github.com/Skandar/TIL/blob/master/js/trailing-commas.md)
+
