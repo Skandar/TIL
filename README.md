@@ -33,4 +33,4 @@
 - [Intersection Observer](https://github.com/Skandar/TIL/blob/master/js/intersection-observer.md)
 - [“Лишние” запятые](https://github.com/Skandar/TIL/blob/master/js/trailing-commas.md)
 - [Приоритет загрузки JavaScript в Chrome](https://github.com/Skandar/TIL/blob/master/js/js-loading-priorities.md)
-
+- [Hoisting](https://github.com/Skandar/TIL/blob/master/js/hoisting.md)
