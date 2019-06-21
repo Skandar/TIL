@@ -26,7 +26,7 @@
 - [Красивое подчёркивания текста](https://github.com/Skandar/TIL/blob/master/css/underline-decoration.md)
 - [Цвет каретки](https://github.com/Skandar/TIL/blob/master/css/caret-color.md)
 - [Обрезание многострочного текста](https://github.com/Skandar/TIL/blob/master/css/line-clamp.md)
-- [`overscroll-behavior` управление поведением браузер при достижении границы скролящегося элемента](https://github.com/Skandar/TIL/blob/master/css/line-clamp.md)
+- [`overscroll-behavior` управление поведением браузер при достижении границы скролящегося элемента](https://github.com/Skandar/TIL/blob/master/css/overscroll-behavior.md)
 
 ## JS
 
@@ -34,3 +34,4 @@
 - [“Лишние” запятые](https://github.com/Skandar/TIL/blob/master/js/trailing-commas.md)
 - [Приоритет загрузки JavaScript в Chrome](https://github.com/Skandar/TIL/blob/master/js/js-loading-priorities.md)
 - [Hoisting](https://github.com/Skandar/TIL/blob/master/js/hoisting.md)
+
