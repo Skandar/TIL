@@ -40,4 +40,4 @@
 - [Vue Instance](https://github.com/Skandar/TIL/blob/master/vue/methods-computed-watch.md)
 - [Template syntax](https://github.com/Skandar/TIL/blob/master/vue/template-syntax.md)
 - [Cтили](https://github.com/Skandar/TIL/blob/master/vue/styling.md)
-- [Условия](https://github.com/Skandar/TIL/blob/master/vue/conditions.md)
+- [Условия и циклы](https://github.com/Skandar/TIL/blob/master/vue/conditions-and-loops.md)
