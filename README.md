@@ -43,3 +43,4 @@
 - [Условия и циклы](https://github.com/Skandar/TIL/blob/master/vue/conditions-and-loops.md)
 - [Шаблоны](https://github.com/Skandar/TIL/blob/master/vue/template.md)
 - [Жизненный цикл](https://github.com/Skandar/TIL/blob/master/vue/vue-instance.md)
+- [Компоненты](https://github.com/Skandar/TIL/blob/master/vue/components.md)
