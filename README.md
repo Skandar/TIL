@@ -45,3 +45,4 @@
 - [Жизненный цикл](https://github.com/Skandar/TIL/blob/master/vue/vue-instance.md)
 - [Компоненты](https://github.com/Skandar/TIL/blob/master/vue/components.md)
 - [Стили](https://github.com/Skandar/TIL/blob/master/vue/style.md)
+- [Коммуникация между компонентами](https://github.com/Skandar/TIL/blob/master/vue/components-communication.md)
