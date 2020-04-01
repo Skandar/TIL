@@ -12,9 +12,11 @@
 
 ## Категории
 
+- [HTML](#html)
 - [CSS](#css)
 - [JS](#js)
-- [HTML](#html)
+- [Vue](#vue)
+- [Misc](#misc)
 
 ## HTML
 
@@ -48,3 +50,7 @@
 - [Стили](https://github.com/Skandar/TIL/blob/master/vue/style.md)
 - [Коммуникация между компонентами](https://github.com/Skandar/TIL/blob/master/vue/components-communication.md)
 - [Slots](https://github.com/Skandar/TIL/blob/master/vue/slots.md)
+
+## Misc
+
+- [Структуры данных](https://github.com/Skandar/TIL/blob/master/misc/data-structures.md)
