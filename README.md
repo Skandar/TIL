@@ -1,22 +1,26 @@
+<!-- omit in toc -->
 # Today I Learned
 
+<!-- omit in toc -->
 ## Цель
 
 Выработать привычку каждый день изучать что-то новое.
 
+<!-- omit in toc -->
 ## Правила
 
 1. Каждый день изучить как минимум 1 новую тему.
 2. Всё что изучил нужно закомитить.
 3. Сложные проекты, которые не закомитить за 1 раз, разделять на логически завершённые части и комитить поотдельности.
 
+<!-- omit in toc -->
 ## Категории
 
 - [HTML](#html)
 - [CSS](#css)
 - [JS](#js)
 - [Vue](#vue)
-- [Misc](#misc)
+- [Структуры данных](#структуры-данных)
 
 ## HTML
 
@@ -51,6 +55,6 @@
 - [Коммуникация между компонентами](https://github.com/Skandar/TIL/blob/master/vue/components-communication.md)
 - [Slots](https://github.com/Skandar/TIL/blob/master/vue/slots.md)
 
-## Misc
+## Структуры данных
 
-- [Структуры данных](https://github.com/Skandar/TIL/blob/master/misc/data-structures.md)
+- [Структуры данных в JS](https://github.com/Skandar/TIL/blob/master/misc/data-structures.md)
