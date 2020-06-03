@@ -41,6 +41,7 @@
 - [Приоритет загрузки JavaScript в Chrome](https://github.com/Skandar/TIL/blob/master/js/js-loading-priorities.md)
 - [Hoisting](https://github.com/Skandar/TIL/blob/master/js/hoisting.md)
 - ["use strict"](./js/use-strict.md)
+- [Promise](./js/promise.md)
 
 ## Vue
 
@@ -57,4 +58,4 @@
 
 ## Структуры данных
 
-- [Структуры данных в JS](https://github.com/Skandar/TIL/blob/master/misc/data-structures.md)
+- [Структуры данных в JS](https://github.com/Skandar/TIL/blob/master/data-structures/data-structures-in-js.md)
