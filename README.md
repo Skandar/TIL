@@ -20,6 +20,7 @@
 - [CSS](#css)
 - [JS](#js)
 - [Vue](#vue)
+- [React](#react)
 - [Структуры данных](#структуры-данных)
 
 ## HTML
@@ -55,6 +56,10 @@
 - [Стили](https://github.com/Skandar/TIL/blob/master/vue/style.md)
 - [Коммуникация между компонентами](https://github.com/Skandar/TIL/blob/master/vue/components-communication.md)
 - [Slots](https://github.com/Skandar/TIL/blob/master/vue/slots.md)
+
+## React
+
+- [setState асинхронный метод](https://github.com/Skandar/TIL/blob/master/react/setState-is-async-method.md)
 
 ## Структуры данных
 
