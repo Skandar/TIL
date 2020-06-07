@@ -60,6 +60,7 @@
 ## React
 
 - [setState асинхронный метод](https://github.com/Skandar/TIL/blob/master/react/setState-is-async-method.md)
+- [Композиция](https://github.com/Skandar/TIL/blob/master/react/composition.md)
 
 ## Структуры данных
 
