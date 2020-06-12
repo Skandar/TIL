@@ -62,6 +62,7 @@
 - [setState асинхронный метод](https://github.com/Skandar/TIL/blob/master/react/setState-is-async-method.md)
 - [Композиция](https://github.com/Skandar/TIL/blob/master/react/composition.md)
 - [Redux](https://github.com/Skandar/TIL/blob/master/react/redux.md)
+- [Presentational и Container Components](https://github.com/Skandar/TIL/blob/master/react/presentational-and-container-components.md)
 
 ## Структуры данных
 
