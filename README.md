@@ -64,6 +64,7 @@
 - [Композиция](https://github.com/Skandar/TIL/blob/master/react/composition.md)
 - [Redux](https://github.com/Skandar/TIL/blob/master/react/redux.md)
 - [Presentational и Container Components](https://github.com/Skandar/TIL/blob/master/react/presentational-and-container-components.md)
+- [combineReducers](https://github.com/Skandar/TIL/blob/master/react/combineReducer.md)
 
 ## Структуры данных
 
