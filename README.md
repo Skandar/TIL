@@ -22,6 +22,7 @@
 - [Vue](#vue)
 - [React](#react)
 - [Структуры данных](#структуры-данных)
+- [Браузер](#браузер)
 
 ## HTML
 
@@ -70,3 +71,7 @@
 ## Структуры данных
 
 - [Структуры данных в JS](https://github.com/Skandar/TIL/blob/master/data-structures/data-structures-in-js.md)
+
+## Браузер
+
+- [Как работает Chrome?](https://github.com/Skandar/TIL/blob/master/browsers/how-chrome-work.md)
