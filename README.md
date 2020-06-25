@@ -72,6 +72,10 @@
 
 - [Структуры данных в JS](https://github.com/Skandar/TIL/blob/master/data-structures/data-structures-in-js.md)
 
-## Браузер
+## Браузеры
 
 - [Как работает Chrome?](https://github.com/Skandar/TIL/blob/master/browsers/how-chrome-work.md)
+
+# Сети
+
+- [DNS](https://github.com/Skandar/TIL/blob/master/networks/dns.md)
