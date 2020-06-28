@@ -79,3 +79,4 @@
 # Сети
 
 - [DNS](https://github.com/Skandar/TIL/blob/master/networks/dns.md)
+- [HTTP. Заголовки, методы и коды ответа](https://github.com/Skandar/TIL/blob/master/networks/http-methods-headers-and-status-codes.md)
