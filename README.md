@@ -22,7 +22,9 @@
 - [Vue](#vue)
 - [React](#react)
 - [Структуры данных](#структуры-данных)
-- [Браузер](#браузер)
+- [Браузеры](#браузеры)
+- [Сети](#сети)
+- [Тестирование](#тестирование)
 
 ## HTML
 
@@ -76,7 +78,11 @@
 
 - [Как работает Chrome?](https://github.com/Skandar/TIL/blob/master/browsers/how-chrome-work.md)
 
-# Сети
+## Сети
 
 - [DNS](https://github.com/Skandar/TIL/blob/master/networks/dns.md)
 - [HTTP. Заголовки, методы и коды ответа](https://github.com/Skandar/TIL/blob/master/networks/http-methods-headers-and-status-codes.md)
+
+## Тестирование
+
+- [Jest matchers](https://github.com/Skandar/TIL/blob/master/testing/jest-matchers.md)
