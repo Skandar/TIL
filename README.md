@@ -11,7 +11,7 @@
 
 1. Каждый день изучить как минимум 1 новую тему.
 2. Всё что изучил нужно закомитить.
-3. Сложные проекты, которые не закомитить за 1 раз, разделять на логически завершённые части и комитить поотдельности.
+3. Сложные проекты, которые не закомитить за 1 раз, разделять на логически завершённые части и комитить по отдельности.
 
 <!-- omit in toc -->
 ## Категории
@@ -83,6 +83,7 @@
 
 - [DNS](https://github.com/Skandar/TIL/blob/master/networks/dns.md)
 - [HTTP. Заголовки, методы и коды ответа](https://github.com/Skandar/TIL/blob/master/networks/http-methods-headers-and-status-codes.md)
+- [Cookies](https://github.com/Skandar/TIL/blob/master/networks/cookies.md)
 
 ## Безопасность
 
