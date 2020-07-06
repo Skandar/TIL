@@ -24,6 +24,7 @@
 - [Структуры данных](#структуры-данных)
 - [Браузеры](#браузеры)
 - [Сети](#сети)
+- [Безопасность](#безопасность)
 - [Тестирование](#тестирование)
 
 ## HTML
@@ -82,6 +83,10 @@
 
 - [DNS](https://github.com/Skandar/TIL/blob/master/networks/dns.md)
 - [HTTP. Заголовки, методы и коды ответа](https://github.com/Skandar/TIL/blob/master/networks/http-methods-headers-and-status-codes.md)
+
+## Безопасность
+
+- [Session hijacking](https://github.com/Skandar/TIL/blob/master/security/session-hijacking.md)
 
 ## Тестирование
 
