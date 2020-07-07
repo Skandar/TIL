@@ -37,6 +37,14 @@ Cookie: new_cookie=cookie_value; new_cookie_2=cookie_value_2
   Set-Cookie: id=a3fWa; Expires=Wed, 31 Oct 2021 07:28:00 GMT;
   ```
 
+  Так же можно указать атрибут `Max-Age`, который позволит удалить куку через определённое количество секунд после того как она была добавлена. Например, кука должна удалиться через 60 секунд:
+
+  ```http
+  Set-Cookie: id=a3fWa; Max-Age=60;
+  ```
+
+  Если в куке присутствует `Expires` и `Max-Age`, то приоритет имеет атрибут `Max-Age`.
+
 - Для целенаправленного удаления куки в ответе для `Expires` назначается уже прошедшая дата.
 
   ```http
@@ -93,3 +101,4 @@ Cookie: new_cookie=cookie_value; new_cookie_2=cookie_value_2
 
 - [MDN. Using HTTP cookies](https://developer.mozilla.org/en-US/docs/Web/HTTP/Cookies)
 - [web.dev. SameSite cookies explained](https://web.dev/samesite-cookies-explained/)
+- [Youtube. Cookie recipes - SameSite and beyond](https://www.youtube.com/watch?v=Fet6-IiX69E)
