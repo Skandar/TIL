@@ -19,6 +19,7 @@
 - [HTML](#html)
 - [CSS](#css)
 - [JS](#js)
+- [TypeScript](#typescript)
 - [Vue](#vue)
 - [React](#react)
 - [Структуры данных](#структуры-данных)
@@ -48,6 +49,10 @@
 - ["use strict"](https://github.com/Skandar/TIL/blob/master/js/use-strict.md)
 - [Promise](https://github.com/Skandar/TIL/blob/master/js/promise.md)
 - [Дескрипторы свойств](https://github.com/Skandar/TIL/blob/master/js/property-descriptoprs.md)
+
+## TypeScript
+
+- [Типы](https://github.com/Skandar/TIL/blob/master/typescript/types.md)
 
 ## Vue
 
