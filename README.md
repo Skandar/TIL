@@ -23,6 +23,7 @@
 - [Vue](#vue)
 - [React](#react)
 - [Структуры данных](#структуры-данных)
+- [Алгоритмы](#алгоритмы)
 - [Браузеры](#браузеры)
 - [Сети](#сети)
 - [Безопасность](#безопасность)
@@ -80,6 +81,10 @@
 ## Структуры данных
 
 - [Структуры данных в JS](https://github.com/Skandar/TIL/blob/master/data-structures/data-structures-in-js.md)
+
+## Алгоритмы
+
+- [Сортировка пузырьком (Bubble sort)](https://github.com/Skandar/TIL/blob/master/algorithms/bubble-sort.md)
 
 ## Браузеры
 
