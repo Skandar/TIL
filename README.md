@@ -32,6 +32,7 @@
 
 - [Управление отображаемой клавиатурой с помощью атрибута `inputmode`](https://github.com/Skandar/TIL/blob/master/html/inputmode.md)
 - [Нативная “ленивая” загрузка `img` и `iframe`](https://github.com/Skandar/TIL/blob/master/html/loading.md)
+- [download атрибут у ссылки](https://github.com/Skandar/TIL/blob/master/html/link-download-attribute.md)
 
 ## CSS
 
