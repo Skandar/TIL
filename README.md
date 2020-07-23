@@ -100,6 +100,7 @@
 
 - [Session hijacking](https://github.com/Skandar/TIL/blob/master/security/session-hijacking.md)
 - [Cross-Site Request Forgery](https://github.com/Skandar/TIL/blob/master/security/csrf.md)
+- [Кликджекинг](https://github.com/Skandar/TIL/blob/master/security/clickjacking.md)
 
 ## Тестирование
 
