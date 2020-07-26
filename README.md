@@ -55,6 +55,7 @@
 ## TypeScript
 
 - [Типы](https://github.com/Skandar/TIL/blob/master/typescript/types.md)
+- [Интерфейсы](https://github.com/Skandar/TIL/blob/master/typescript/interfaces.md)
 
 ## Vue
 
