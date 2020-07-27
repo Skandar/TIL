@@ -56,6 +56,7 @@
 
 - [Типы](https://github.com/Skandar/TIL/blob/master/typescript/types.md)
 - [Интерфейсы](https://github.com/Skandar/TIL/blob/master/typescript/interfaces.md)
+- [Классы](https://github.com/Skandar/TIL/blob/master/typescript/classes.md)
 
 ## Vue
 
