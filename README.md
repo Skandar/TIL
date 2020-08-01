@@ -28,6 +28,7 @@
 - [Сети](#сети)
 - [Безопасность](#безопасность)
 - [Тестирование](#тестирование)
+- [Git](#git)
 
 ## HTML
 
@@ -108,3 +109,7 @@
 ## Тестирование
 
 - [Jest matchers](https://github.com/Skandar/TIL/blob/master/testing/jest-matchers.md)
+
+## Git
+
+- [Переводы строк](https://github.com/Skandar/TIL/blob/master/git/lf-vs-crlf.md)

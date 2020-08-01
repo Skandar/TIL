@@ -21,7 +21,7 @@
    - Где возможно указать явный тип, если такой возможности нет, явно указать `any`. Импортировать типы для зависимостей из [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped).
    - Проверить, что все тесты проходят успешно.
 3. Заменить явное `any` и включить `strict mode`.
-   - добавить `tsconfig.json`: `"strict": true`, `"strictFunctionTypes": true`, `"strictNullChecks": true` и `"strictBindCallApply": true`.
+   - Добавить `tsconfig.json`: `"strict": true`, `"strictFunctionTypes": true`, `"strictNullChecks": true` и `"strictBindCallApply": true`.
    - Постепенно небольшими частями менять явное `any` на более подходящий тип.
 
 ## Ссылка
