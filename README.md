@@ -113,3 +113,4 @@
 ## Git
 
 - [Переводы строк](https://github.com/Skandar/TIL/blob/master/git/lf-vs-crlf.md)
+- [Commit](https://github.com/Skandar/TIL/blob/master/git/commit.md)
