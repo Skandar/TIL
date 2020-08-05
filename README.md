@@ -115,3 +115,4 @@
 - [Переводы строк](https://github.com/Skandar/TIL/blob/master/git/lf-vs-crlf.md)
 - [Commit](https://github.com/Skandar/TIL/blob/master/git/commit.md)
 - [Удаление, переименование и перемещение файлов](https://github.com/Skandar/TIL/blob/master/git/rm-mv.md)
+- [Ветки](https://github.com/Skandar/TIL/blob/master/git/branches.md)
