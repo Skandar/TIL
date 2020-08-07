@@ -96,4 +96,4 @@ git branch -f branch_name another_branch_name
 ## Ссылки
 
 - [4.1 - 4.11 Скринкаст по Git – Ветки](https://www.youtube.com/watch?v=A9C7lJMaf1M&list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h&index=20)
-- [Git Docs. Git-branch](https://git-scm.com/docs/git-branch)
+- [Git Docs. git-branch](https://git-scm.com/docs/git-branch)

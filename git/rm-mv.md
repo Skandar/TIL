@@ -39,5 +39,5 @@ git mv file.txt path/to/directory
 ## Ссылки
 
 - [3.6 Скринкаст по Git – Основы – Удаление и переименование файлов](https://youtu.be/PngevuwjOi0)
-- [Git Docs. Git-rm](https://git-scm.com/docs/git-rm)
-- [Git Docs. Git-mv](https://git-scm.com/docs/git-mv)
+- [Git Docs. git-rm](https://git-scm.com/docs/git-rm)
+- [Git Docs. git-mv](https://git-scm.com/docs/git-mv)
