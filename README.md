@@ -117,3 +117,4 @@
 - [Удаление, переименование и перемещение файлов](https://github.com/Skandar/TIL/blob/master/git/rm-mv.md)
 - [Ветки](https://github.com/Skandar/TIL/blob/master/git/branches.md)
 - [Отделённая HEAD (detached HEAD)](https://github.com/Skandar/TIL/blob/master/git/detached-head.md)
+- [Восстановление предыдущих версий файлов](https://github.com/Skandar/TIL/blob/master/git/restore-previous-versions-of-files.md)
