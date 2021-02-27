@@ -52,6 +52,7 @@
 - ["use strict"](https://github.com/Skandar/TIL/blob/master/js/use-strict.md)
 - [Promise](https://github.com/Skandar/TIL/blob/master/js/promise.md)
 - [Дескрипторы свойств](https://github.com/Skandar/TIL/blob/master/js/property-descriptoprs.md)
+- [void](https://github.com/Skandar/TIL/blob/master/js/void.md)
 
 ## TypeScript
 
