@@ -54,6 +54,7 @@
 - [Дескрипторы свойств](https://github.com/Skandar/TIL/blob/master/js/property-descriptoprs.md)
 - [void](https://github.com/Skandar/TIL/blob/master/js/void.md)
 - [NaN](https://github.com/Skandar/TIL/blob/master/js/nan.md)
+- [BigInt](https://github.com/Skandar/TIL/blob/master/js/bigint.md)
 
 ## TypeScript
 
