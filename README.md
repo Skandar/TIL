@@ -4,14 +4,7 @@
 <!-- omit in toc -->
 ## Цель
 
-Выработать привычку каждый день изучать что-то новое.
-
-<!-- omit in toc -->
-## Правила
-
-1. Каждый день изучить как минимум 1 новую тему.
-2. Всё что изучил нужно закомитить.
-3. Сложные проекты, которые не закомитить за 1 раз, разделять на логически завершённые части и комитить по отдельности.
+Собирать полезные мелочи, которые я узнал, и которые могут быть полезны кому-то ещё.
 
 <!-- omit in toc -->
 ## Категории
@@ -29,6 +22,7 @@
 - [Безопасность](#безопасность)
 - [Тестирование](#тестирование)
 - [Git](#git)
+- [MacOS](#macos)
 
 ## HTML
 
@@ -123,3 +117,7 @@
 - [Отделённая HEAD (detached HEAD)](https://github.com/Skandar/TIL/blob/master/git/detached-head.md)
 - [Восстановление предыдущих версий файлов](https://github.com/Skandar/TIL/blob/master/git/restore-previous-versions-of-files.md)
 - [Просмотр истории и старых версий](https://github.com/Skandar/TIL/blob/master/git/log-show.md)
+
+## MacOS
+
+- [Keyboard navigation](https://github.com/Skandar/TIL/blob/master/macos/navigation.md)
