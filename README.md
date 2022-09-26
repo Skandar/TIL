@@ -118,6 +118,7 @@
 - [Восстановление предыдущих версий файлов](https://github.com/Skandar/TIL/blob/master/git/restore-previous-versions-of-files.md)
 - [Просмотр истории и старых версий](https://github.com/Skandar/TIL/blob/master/git/log-show.md)
 - [Выбор ревизии или HEAD~ vs HEAD^ vs HEAD@{}](https://github.com/Skandar/TIL/blob/master/git/revision-selection.md)
+- [Слитие нескольких веток сразу](https://github.com/Skandar/TIL/blob/master/git/merge-multiple-branches.md)
 
 ## MacOS
 
