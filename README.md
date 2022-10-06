@@ -124,3 +124,4 @@
 
 - [Keyboard navigation](https://github.com/Skandar/TIL/blob/master/macos/navigation.md)
 - [VS Code установлен в read-only режиме](https://github.com/Skandar/TIL/blob/master/macos/vscode-installed-in-read-only-mode.md)
+- [Вывод название текущей git ветки в prompt терминала (zsh)](https://github.com/Skandar/TIL/blob/master/macos/add-git-branch-name-to-terminal-prompt-zsh.md)
